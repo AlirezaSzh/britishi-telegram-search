@@ -1,2 +1,12 @@
-/app.zip
-/venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+downloads/
+session_name.session*
+.idea/
+.vscode/
+*.docx
